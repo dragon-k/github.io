@@ -1,1 +1,20 @@
-body { background-image: url(nc215540.jpg;}
+body {
+  font-family: "Avenir Next";
+}
+
+/* list-styleプロパティを用いて、<li>要素の黒点を取り除いてください */
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
+.body { background-image: url(nc215540.jpg;}
+
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}

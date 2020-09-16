@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #ff6347;
+  background-color: #26d0c9;
   color: #fff;
   height: 90px;
 }
@@ -25,25 +25,31 @@ li {
 
 .main {
   /* background-colorの指定を消してください */
-  background-color: #ff6347;
+  
   /* heightの指定を消してください */
-  height: 600px;
+  
   /* 上下のpaddingを100px、左右のpaddingを80pxにしてください */
-   
+  padding: 100px 80px;
   
 }
 
 /* copy-containerの中のh1のfont-sizeを指定してください */
-
+.copy-container h1 {
+  font-size: 140px;
+}
 
 /* copy-containerの中のh2のfont-sizeを指定してください */
-
+.copy-container h2 {
+  font-size: 60px;
+}
 
 /* copy-containerの中のspanの色を指定してください */
-
+.copy-container span {
+  color: #ff4a4a;
+}
 
 .footer {
-  background-color: #ff0000;
+  background-color: #2f5167;
   color: #fff;
   height: 120px;
   padding: 40px;

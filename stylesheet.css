@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #ff6347;
   color: #fff;
   height: 90px;
 }
@@ -45,11 +45,11 @@ li {
 
 /* copy-containerの中のspanの色を指定してください */
 .copy-container span {
-  color: #ff4a4a;
+  color: #ff4500;
 }
 
 .footer {
-  background-color: #2f5167;
+  background-color: #ff6347;
   color: #fff;
   height: 120px;
   padding: 40px;

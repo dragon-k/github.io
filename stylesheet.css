@@ -79,3 +79,11 @@ li {
 #dk {
   color: #dc143c;
 }
+
+.btn{
+  border-radius: 5px;
+  background-color: red;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}

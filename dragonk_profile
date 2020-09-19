@@ -12,7 +12,7 @@
       <div class="header-logo">Dragon-k</div>
       <div class="header-list">
         <ul>
-        <li href="https://dragon-k.github.io/github.io/">ホーム</li>
+        <li><a href="https://dragon-k.github.io/github.io/">ホーム</li>
           <li>自己紹介</li>
           <li>Dragonk_server</li>
           <li>scratch解説</li>

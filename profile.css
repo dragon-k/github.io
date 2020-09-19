@@ -6,29 +6,29 @@ li {
   list-style: none;
 }
 
-.header {
+.header2 {
   background-color: #b22222;
   color: #fff;
   height: 90px;
 }
 
-.header-logo {
+.header-logo2 {
   float: left;
   font-size: 36px;
   padding: 20px 40px;
 }
 
-.header-list li {
+.header-list2 li {
   float: left;
   padding: 33px 20px;
 }
 
-.main {
+.main2 {
   background-color: #ff7f50;
   height: 1050px;
 }
 
-.footer {
+.footer2 {
   /* background-colorを#2f5167に変更してください */
   background-color: #b22222;
   
@@ -58,11 +58,11 @@ li {
   padding-bottom: 20px;
 }
 
-.box29 {
+.box2 {
     margin: 2em 0;
     background: #f0e68c;
 }
-.box29 .box-title {
+.box2 .box-title {
     font-size: 1.2em;
     background: #ff8c00;
     padding: 6px;
@@ -71,7 +71,7 @@ li {
     font-weight: bold;
     letter-spacing: 0.05em;
 }
-.box29 p {
+.box2 p {
     padding: 15px 20px;
     margin: 0;
 }
@@ -80,18 +80,18 @@ li {
   color: #dc143c;
 }
 
-a.btn--orange {
+a.btn--orange2 {
   color: #fff;
   background-color: #eb6100;
   border-bottom: 5px solid #b84c00;
 }
-a.btn--orange:hover {
+a.btn--orange:hover2 {
   margin-top: 3px;
   color: #fff;
   background: #f56500;
   border-bottom: 2px solid #b84c00;
 }
-a.btn--shadow {
+a.btn--shadow2 {
   -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
   box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
 }

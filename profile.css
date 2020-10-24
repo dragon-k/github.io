@@ -1,3 +1,4 @@
+
 body {
   font-family: "Avenir Next";
 }
@@ -6,29 +7,29 @@ li {
   list-style: none;
 }
 
-.header2 {
+.header {
   background-color: #b22222;
   color: #fff;
   height: 90px;
 }
 
-.header-logo2 {
+.header-logo {
   float: left;
   font-size: 36px;
   padding: 20px 40px;
 }
 
-.header-list2 li {
+.header-list li {
   float: left;
   padding: 33px 20px;
 }
 
-.main2 {
+.main {
   background-color: #ff7f50;
   height: 1050px;
 }
 
-.footer2 {
+.footer {
   /* background-colorを#2f5167に変更してください */
   background-color: #b22222;
   
@@ -58,11 +59,11 @@ li {
   padding-bottom: 20px;
 }
 
-.box2 {
+.box29 {
     margin: 2em 0;
     background: #f0e68c;
 }
-.box2 .box-title {
+.box29 .box-title {
     font-size: 1.2em;
     background: #ff8c00;
     padding: 6px;
@@ -71,7 +72,7 @@ li {
     font-weight: bold;
     letter-spacing: 0.05em;
 }
-.box2 p {
+.box29 p {
     padding: 15px 20px;
     margin: 0;
 }
@@ -80,42 +81,18 @@ li {
   color: #dc143c;
 }
 
-a.btn--orange2 {
+a.btn--orange {
   color: #fff;
   background-color: #eb6100;
   border-bottom: 5px solid #b84c00;
 }
-a.btn--orange:hover2 {
+a.btn--orange:hover {
   margin-top: 3px;
   color: #fff;
   background: #f56500;
   border-bottom: 2px solid #b84c00;
 }
-a.btn--shadow2 {
+a.btn--shadow {
   -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
   box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
-}
-
-.box28 {
-    position: relative;
-    margin: 2em 0;
-    padding: 25px 10px 7px;
-    border: solid 2px #FFC107;
-}
-.box28 .box-title {
-    position: absolute;
-    display: inline-block;
-    top: -2px;
-    left: -2px;
-    padding: 0 9px;
-    height: 25px;
-    line-height: 25px;
-    font-size: 17px;
-    background: #FFC107;
-    color: #ffffff;
-    font-weight: bold;
-}
-.box28 p {
-    margin: 0; 
-    padding: 0;
 }
